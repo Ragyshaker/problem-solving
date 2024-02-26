@@ -1,3 +1,4 @@
+//problem link : https://codeforces.com/contest/714/problem/B
 #include<iostream>
 #include<algorithm>
 #define endl "\n"
